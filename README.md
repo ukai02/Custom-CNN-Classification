@@ -37,7 +37,7 @@ To prevent overfitting and maximize the extraction of complementary audio-image 
 * **Data Processing & Metrics:** Pandas, NumPy, scikit-learn
 * **Visualization:** Matplotlib, Seaborn, tqdm
 
-## 💻 Usage
+##  Usage
 To run the model and view the mathematical implementations, open the notebook:
 ```bash
 jupyter notebook final-arch.ipynb
